@@ -1,0 +1,82 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: "#Developer #currychoco"
+email: godqhrgka0000@naver.com
+description: 개발자 currychoco의 개발 블로그
+url: https://currychoco.github.io
+keywords: ["Java", "Spring", "Spring Boot", "Javascript", "Node.js"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone: Asia/Seoul
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+permalink: /articles/:year-:month/:title
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - node_modules
+
+kramdown:
+  syntax_highlighter: rouge
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: currychoco
+  avatar: avatar.png
+  job: "Developer"
+  bio: ""
+  email: godqhrgka0000@naver.com
+  disqus-shortname: currychoco-blog
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: currychoco
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: hyeryang-lee
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
