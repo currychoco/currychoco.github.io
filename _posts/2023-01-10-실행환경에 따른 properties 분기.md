@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 실행환경에 따른 properties 분기
-categories: [_MANAGER]
+categories: [ASSET_MANAGER]
 comments: true
 ---
 
