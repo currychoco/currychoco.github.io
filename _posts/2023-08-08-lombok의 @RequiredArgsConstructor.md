@@ -6,6 +6,7 @@ comments: true
 ---
 
 ##### @RequiredArgsConstructor
+
 - 해당 어노테이션을 사용할 경우 final로 선언된 멤버변수가 매개변수로 지정된 생성자를 자동으로 생성해준다.
 
 ``` java
