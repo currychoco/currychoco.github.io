@@ -11,7 +11,7 @@ comments: true
 
 ``` java
 
-// 어노테이션이 없을 경우
+//  어노테이션이 없을 경우
 public class TestService {
 
     private final TestRepository testRepository;
