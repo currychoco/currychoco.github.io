@@ -55,3 +55,5 @@ GET /users?name=Alice&age=25
 ## 주의사항
 - `@SpringQueryMap`은 **Spring Cloud OpenFeign에서만 동작**하며, 일반 Spring MVC에서는 사용할 수 없음
 
+
+
