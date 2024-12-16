@@ -32,3 +32,4 @@ data class Person(val name: String, val age: Int)
 | 자동 메서드 | X     | O          |
 | 주 용도     | 기능 구현 | 데이터 저장 |
 | 객체 복사   | 직접 구현 | `copy()` 제공 |
+
