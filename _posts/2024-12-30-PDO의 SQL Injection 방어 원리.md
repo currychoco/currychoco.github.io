@@ -36,3 +36,4 @@ $stmt->execute();
 
 ### 결론  
 PDO의 Prepared Statement를 사용하면 SQL Injection을 효과적으로 방어할 수 있음. 다만, SQL 쿼리 자체를 동적으로 생성할 때는 주의 필요.
+
