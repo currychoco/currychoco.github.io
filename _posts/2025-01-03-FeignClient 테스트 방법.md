@@ -74,3 +74,4 @@ public interface ExternalApiClient {
 - **Fallback을 사용하면 실제 API 호출 없이 기본 응답을 반환할 수 있음.**
 - **테스트 코드에서는 `@MockBean`을 사용하여 Feign Client를 Mocking할 수 있음.**
 - **Feign Client는 HTTP 메서드를 반드시 명시해야 오류를 방지할 수 있음.**
+
