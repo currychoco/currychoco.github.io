@@ -53,3 +53,4 @@ class GlobalExceptionHandler {
 - **REST API 프로젝트** → `@RestControllerAdvice` 사용
 - `@RestControllerAdvice`는 `@ControllerAdvice + @ResponseBody`와 동일한 기능을 함
 
+
