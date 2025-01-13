@@ -40,3 +40,4 @@ data class ExtendedData(val name: String, val base: BaseData)
 - Data Class는 다른 Data Class를 상속할 수 없지만, 일반 클래스나 인터페이스는 상속 가능.
 - 코드 재사용을 위해 구성(Composition) 방식 활용 추천.
 
+
