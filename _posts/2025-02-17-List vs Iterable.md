@@ -40,3 +40,4 @@ for (brand in resultRows.toBrandList()) { // Iterable을 직접 사용
 ```
 - `List`로 반환하면 내부적으로 리스트를 생성해야 하므로 불필요한 메모리 할당이 발생할 수 있다.
 - `Iterable`을 그대로 사용할 수 있는 경우, 메모리 사용이 최적화된다.
+
