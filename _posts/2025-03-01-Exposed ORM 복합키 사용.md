@@ -39,3 +39,4 @@ val order = Orders.select { (Orders.orderId eq 1) and (Orders.productId eq 100) 
 
 위 방법을 사용하면 Exposed ORM에서 복합 키를 쉽게 적용할 수 있다.
 
+
