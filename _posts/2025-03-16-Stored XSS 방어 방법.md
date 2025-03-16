@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stored XSS 방어 방법
+categories: [일상 중 궁금했던]
+comments: true
+---
+
 # Stored XSS 대응 및 `Content-Security-Policy (CSP)` 적용 가이드
 
 ## 1. Stored XSS란?
