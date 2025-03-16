@@ -1,11 +1,6 @@
 ---
 layout: post
-title: ---
-layout: post
-title: Stored XSS 방어 방법
-categories: [일상 중 궁금했던]
-comments: true
----
+title: Exposed ORM에서 왜 생성자를 쓰지 않는가?
 categories: [일상 중 궁금했던]
 comments: true
 ---
