@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Kotlin class vs data class
