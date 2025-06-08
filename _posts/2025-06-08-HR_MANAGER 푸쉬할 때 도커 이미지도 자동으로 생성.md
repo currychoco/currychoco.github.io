@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a55a3985-a8fb-4801-8b06-89a56214e013)---
+---
 layout: post
 title: HR_MANAGER 푸쉬할 때 도커 이미지도 자동으로 생성
 categories: [Docker]
